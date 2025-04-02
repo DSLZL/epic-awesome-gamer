@@ -1,1 +1,2 @@
 hcaptcha-challenger[playwright]
+security==1.3.1
